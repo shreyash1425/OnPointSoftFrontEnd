@@ -1,0 +1,62 @@
+/* ProductDetail.css */
+
+/* Container Styles */
+.product-detail {
+  padding: 20px;
+  background-color: #f8f8f8; /* Background color */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
+}
+
+/* Image Styles */
+.product-detail img {
+  max-width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow to the image */
+}
+
+/* Card Styles */
+.product-detail .card {
+  border: none;
+  transition: transform 0.3s ease; /* Add a smooth transform animation */
+}
+
+/* Card Hover Effect */
+.product-detail .card:hover {
+  transform: scale(1.02); /* Enlarge the card on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Increase the shadow on hover */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+/* Card Title Styles */
+.product-detail .card-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #333; /* Title color */
+}
+
+/* Card Text Styles */
+.product-detail .card-text {
+  font-size: 16px;
+  color: #555; /* Text color */
+}
+
+/* Button Styles */
+.product-detail .btn-primary {
+  background-color: #007bff;
+  border: none;
+  transition: background-color 0.3s ease; /* Smooth color transition */
+}
+
+/* Button Hover Effect */
+.product-detail .btn-primary:hover {
+  background-color: #0056b3; /* Change button color on hover */
+  transition: background-color 0.3s ease; /* Smooth color transition */
+}
+
+/* Product Not Found Styles */
+.product-not-found {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 20px;
+  color: red;
+}

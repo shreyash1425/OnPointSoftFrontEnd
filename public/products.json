@@ -1,0 +1,107 @@
+[
+  {
+    "id":"1",
+    "name": "Smartphone",
+    "price": 499.99,
+    "description": "A powerful smartphone with great features.",
+    "image": "/images/smartphone.jpeg"
+  },
+  {
+    "id":"2",
+    "name": "Laptop",
+    "price": 899.99,
+    "description": "A high-performance laptop for work and gaming.",
+    "image": "/images/laptop.jpeg"
+  },
+  {
+    "id":"3",
+    "name": "Tablet",
+    "price": 299.99,
+    "description": "A compact and versatile tablet for entertainment.",
+    "image": "/images/tablet.jpeg"
+  },
+  {
+    "id":"4",
+    "name": "Headphones",
+    "price": 79.99,
+    "description": "High-quality headphones for an immersive audio experience.",
+    "image": "/images/headphones.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Smartwatch",
+    "price": 149.99,
+    "description": "A stylish smartwatch with health and fitness tracking.",
+    "image": "/images/smartwatch.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "Camera",
+    "price": 599.99,
+    "description": "A professional camera for capturing stunning photos and videos.",
+    "image": "/images/camera.jpeg"
+  },
+  {
+    "id": "7",
+    "name": "Gaming Console",
+    "price": 399.99,
+    "description": "The ultimate gaming console for gamers.",
+    "image": "/images/console.jpeg"
+  },
+  {
+    "id": "8",
+    "name": "Desktop Computer",
+    "price": 1299.99,
+    "description": "A powerful desktop computer for work and gaming.",
+    "image": "/images/desktop.jpeg"
+  },
+  {
+    "id": "9",
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "description": "A comfortable wireless mouse for productivity.",
+    "image": "/images/mouse.jpeg"
+  },
+  {
+    "id": "10",
+    "name": "External Hard Drive",
+    "price": 79.99,
+    "description": "Expand your storage with this reliable external hard drive.",
+    "image": "/images/harddrive.jpeg"
+  },
+  {
+    "id": "11",
+    "name": "Wireless Keyboard",
+    "price": 49.99,
+    "description": "A sleek wireless keyboard for easy typing.",
+    "image": "/images/keyboard.jpeg"
+  },
+  {
+    "id": "12",
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "description": "Enjoy music on the go with this portable Bluetooth speaker.",
+    "image": "/images/speaker.jpeg"
+  },
+  {
+    "id": "13",
+    "name": "Smart TV",
+    "price": 699.99,
+    "description": "Experience entertainment in high definition with this Smart TV.",
+    "image": "/images/smarttv.jpeg"
+  },
+  {
+    "id": "14",
+    "name": "Wireless Earbuds",
+    "price": 89.99,
+    "description": "Wireless earbuds for a tangle-free listening experience.",
+    "image": "/images/earbuds.jpeg"
+  },
+  {
+    "id": "15",
+    "name": "Fitness Tracker",
+    "price": 49.99,
+    "description": "Monitor your fitness goals with this smart fitness tracker",
+    "image": "images/tracker.jpeg"
+  }
+]
