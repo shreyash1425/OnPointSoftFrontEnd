@@ -1,5 +1,5 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -33,6 +33,10 @@ function ProductDetail({ products }) {
           </Card>
         </Col>
       </Row>
+<br></br>
+      <Link to="/"> {/* This links back to the root (home) */}
+        <Button variant="secondary">Back to Home Page</Button>
+      </Link>
     </Container>
   );
 }
